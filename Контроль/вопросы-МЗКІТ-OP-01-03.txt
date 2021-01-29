@@ -2,7 +2,7 @@
 $CATEGORY: $course$/top/OP-01-03
 
 
-// question: 11987  name: op-01-03-01
+// question: 12005  name: op-01-03-01
 ::op-01-03-01::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%25%text
 	~%25%button
@@ -11,7 +11,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11988  name: op-01-03-02
+// question: 12006  name: op-01-03-02
 ::op-01-03-02::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%25%date
 	~%25%submit
@@ -20,7 +20,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11989  name: op-01-03-03
+// question: 12007  name: op-01-03-03
 ::op-01-03-03::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%33.33333%text
 	~%33.33333%password
@@ -29,7 +29,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11990  name: op-01-03-04
+// question: 12008  name: op-01-03-04
 ::op-01-03-04::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%33.33333%reset
 	~%33.33333%image
@@ -38,7 +38,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11991  name: op-01-03-05
+// question: 12009  name: op-01-03-05
 ::op-01-03-05::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%50%reset
 	~%50%image
@@ -47,7 +47,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11992  name: op-01-03-06
+// question: 12010  name: op-01-03-06
 ::op-01-03-06::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
 	~%50%date
 	~%50%image
@@ -56,7 +56,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11993  name: op-01-03-07
+// question: 12011  name: op-01-03-07
 ::op-01-03-07::[html]<p>Оберіть блочні теги</p>{
 	~%50%&lt;h1&gt;
 	~%50%&lt;p&gt;
@@ -65,7 +65,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11994  name: op-01-03-08
+// question: 12012  name: op-01-03-08
 ::op-01-03-08::[html]<p>Оберіть блочні теги</p>{
 	~%50%&lt;h2&gt;
 	~%50%&lt;header&gt;
@@ -74,7 +74,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11995  name: op-01-03-09
+// question: 12013  name: op-01-03-09
 ::op-01-03-09::[html]<p>Оберіть блочні теги</p>{
 	~%33.33333%&lt;h2&gt;
 	~%33.33333%&lt;header&gt;
@@ -83,7 +83,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11996  name: op-01-03-10
+// question: 12014  name: op-01-03-10
 ::op-01-03-10::[html]<p>Оберіть блочні теги</p>{
 	~%33.33333%&lt;h2&gt;
 	~%33.33333%&lt;section&gt;
@@ -92,7 +92,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11997  name: op-01-03-11
+// question: 12015  name: op-01-03-11
 ::op-01-03-11::[html]<p>Оберіть теги, які відповідають за напівжирний текст</p>{
 	~%50%&lt;b&gt;
 	~%50%&lt;strong&gt;
@@ -101,7 +101,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11998  name: op-01-03-12
+// question: 12016  name: op-01-03-12
 ::op-01-03-12::[html]<p>Оберіть теги, які відповідають за напівжирний текст</p>{
 	~%50%&lt;b&gt;
 	~%50%&lt;strong&gt;
@@ -110,7 +110,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 11999  name: op-01-03-14
+// question: 12017  name: op-01-03-14
 ::op-01-03-14::[html]<p>Оберіть теги заголовків, які існують</p>{
 	~%50%&lt;h1&gt;
 	~%50%&lt;h5&gt;
@@ -119,7 +119,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 12000  name: op-01-03-15
+// question: 12018  name: op-01-03-15
 ::op-01-03-15::[html]<p>Оберіть теги заголовків, яких не існує</p>{
 	~%50%&lt;h0&gt;
 	~%50%&lt;h8&gt;
@@ -128,7 +128,7 @@ $CATEGORY: $course$/top/OP-01-03
 }
 
 
-// question: 12001  name: op-01-03-16
+// question: 12019  name: op-01-03-16
 ::op-01-03-16::[html]<p>Оберіть теги заголовків, яких не існує</p>{
 	~%50%&lt;h9&gt;
 	~%50%&lt;h8&gt;
@@ -136,4 +136,66 @@ $CATEGORY: $course$/top/OP-01-03
 	~%-40%&lt;h1&gt;
 }
 
+
+// question: 12020  name: op-01-03-17
+::op-01-03-17::[html]<p>Оберіть корректні значення атрибуту type тегу <input></p>{
+	~%50%text;
+	~%50%reset;
+	~%-40%clean;
+	~%-40%clear;
+}
+
+
+// question: 12021  name: op-01-03-18
+::op-01-03-18::[html]<p>Оберіть корректні значення атрибуту type тегу <input></p>{
+	~%50%password;
+	~%50%checkbox;
+	~%-40%word;
+	~%-40%web-doc;
+}
+
+
+// question: 12022  name: op-01-03-19
+::op-01-03-19::[html]<p>Оберіть корректні значення атрибуту type тегу <input></p>{
+	~%50%password;
+	~%50%checkbox;
+	~%-40%word;
+	~%-40%web-doc;
+}
+
+
+// question: 12023  name: op-01-03-20
+::op-01-03-20::[html]<p>Оберіть корректні значення атрибуту type тегу <input></p>{
+	~%33.33333%password;
+	~%33.33333%checkbox;
+	~%33.33333%button;
+	~%-80%size;
+}
+
+
+// question: 12023  name: op-01-03-20
+::op-01-03-20::[html]<p>Оберіть корректні значення атрибуту text-align</p>{
+	~%33.33333%justify;
+	~%33.33333%right;
+	~%33.33333%left;
+	~%-80%top;
+}
+
+
+// question: 12024  name: op-01-03-21
+::op-01-03-21::[html]<p>Оберіть корректні значення атрибуту text-align</p>{
+	~%33.33333%justify;
+	~%33.33333%right;
+	~%33.33333%left;
+	~%-80%top;
+}
+
+
+// question: 12024  name: op-01-03-22
+::op-01-03-21::[html]<p>Оберіть корректні значення атрибуту text-align</p>{
+	~%33.33333%justify;
+	~%33.33333%right;
+	~%33.33333%left;
+	~%-80%top;
+}
 
