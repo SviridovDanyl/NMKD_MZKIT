@@ -2,7 +2,7 @@
 $CATEGORY: $course$/top/OP-01-02
 
 
-// question: 11967  name: op-01-02-01
+// question: 11976  name: op-01-02-01
 ::op-01-02-01::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;section&gt;
 	~&lt;p&gt;
@@ -11,7 +11,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11968  name: op-01-02-02
+// question: 11977  name: op-01-02-02
 ::op-01-02-02::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;nav&gt;
 	~&lt;font&gt;
@@ -20,7 +20,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11969  name: op-01-02-03
+// question: 11978  name: op-01-02-03
 ::op-01-02-03::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;video&gt;
 	~&lt;table&gt;
@@ -29,7 +29,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11970  name: op-01-02-04
+// question: 11979  name: op-01-02-04
 ::op-01-02-04::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;article&gt;
 	~&lt;table&gt;
@@ -38,7 +38,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11971  name: op-01-02-05
+// question: 11980  name: op-01-02-05
 ::op-01-02-05::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;header&gt;
 	~&lt;table&gt;
@@ -47,7 +47,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11972  name: op-01-02-06
+// question: 11981  name: op-01-02-06
 ::op-01-02-06::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
 	=&lt;footer&gt;
 	~&lt;iframe&gt;
@@ -56,7 +56,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11973  name: op-01-02-07
+// question: 11982  name: op-01-02-07
 ::op-01-02-07::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
 	=&lt;border&gt;
 	~&lt;iframe&gt;
@@ -65,7 +65,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11974  name: op-01-02-08
+// question: 11983  name: op-01-02-08
 ::op-01-02-08::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
 	=&lt;order&gt;
 	~&lt;body&gt;
@@ -74,7 +74,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11975  name: op-01-02-09
+// question: 11984  name: op-01-02-09
 ::op-01-02-09::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
 	=&lt;side&gt;
 	~&lt;body&gt;
@@ -83,7 +83,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11976  name: op-01-02-10
+// question: 11985  name: op-01-02-10
 ::op-01-02-10::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
 	=&lt;fig&gt;
 	~&lt;body&gt;
@@ -92,7 +92,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11977  name: op-01-02-11
+// question: 11986  name: op-01-02-11
 ::op-01-02-11::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що відповідає за створення кнопки відправки форми</p>{
 	=submit
 	~button
@@ -101,7 +101,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11978  name: op-01-02-12
+// question: 11987  name: op-01-02-12
 ::op-01-02-12::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що відповідає за створення кнопки відправки форми</p>{
 	=submit
 	~flush
@@ -110,7 +110,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11979  name: op-01-02-13
+// question: 11988  name: op-01-02-13
 ::op-01-02-13::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
 	=GET
 	~POST
@@ -119,7 +119,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11980  name: op-01-02-14
+// question: 11989  name: op-01-02-14
 ::op-01-02-14::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
 	=GET
 	~POST
@@ -128,7 +128,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11981  name: op-01-02-15
+// question: 11990  name: op-01-02-15
 ::op-01-02-15::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
 	=GET
 	~POST
@@ -137,7 +137,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11982  name: op-01-02-16
+// question: 11991  name: op-01-02-16
 ::op-01-02-16::[html]<p>Виберіть атрибуту тегу &lt;input&gt;, що відповідає за вигляд та функції елемента керування</p>{
 	=type
 	~id
@@ -146,7 +146,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11983  name: op-01-02-17
+// question: 11992  name: op-01-02-17
 ::op-01-02-17::[html]<p>Виберіть атрибуту тегу &lt;input&gt;, що відповідає за вигляд та функції елемента керування</p>{
 	=type
 	~name
@@ -155,7 +155,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11984  name: op-01-02-18
+// question: 11993  name: op-01-02-18
 ::op-01-02-18::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що НЕ створює елемент у вигляді кнопки</p>{
 	=number
 	~reset
@@ -164,7 +164,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11985  name: op-01-02-19
+// question: 11994  name: op-01-02-19
 ::op-01-02-19::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що НЕ створює елемент у вигляді кнопки</p>{
 	=color
 	~reset
@@ -173,7 +173,7 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
-// question: 11986  name: op-01-02-20
+// question: 11995  name: op-01-02-20
 ::op-01-02-20::[html]<p>Виберіть атрибут тегу &lt;form&gt;, що може містити значення <code>GET</code> або <code>POST</code></p>{
 	=method
 	~action
@@ -182,3 +182,82 @@ $CATEGORY: $course$/top/OP-01-02
 }
 
 
+// question: 11996  name: op-01-02-21
+::op-01-02-21::[html]<p>Потрібно зробити ширину таблиці на всю сторінку (або батьківського контейнера). Як йому потрібно написати тег &lt;table&gt;?</p>{
+	=&lt;table width="100%"&gt;
+	~&lt;table&gt;
+	~&lt;table width="auto"&gt;
+	~&lt;table width="100"&gt;
+}
+
+
+// question: 11997  name: op-01-02-22
+::op-01-02-22::[html]<p>Який з представлених нижче HTML-кодів НЕ є дійсним XHTML 1.1:</p>{
+	=&lt;u&gt;Підкреслений текст&lt;/u&gt;
+	~&lt;p style="font-size: 1000%;"&gt;Текст&lt;/p&gt;
+	~&lt;i&gt;Курсив&lt;/i&gt;
+	~&lt;p&gt;Текст&lt;/p&gt;
+}
+
+
+// question: 11998  name: op-01-02-23
+::op-01-02-23::[html]<p>Як правильно поставити посилання на адресу електронної пошти:</p>{
+	=&lt;a href="mailto:myrusakov@gmail.com"&gt;Написати&lt;/a&gt;
+	~&lt;a href="myrusakov@gmail.com"&gt;Написати&lt;/a&gt;
+	~&lt;a href="email:myrusakov@gmail.com"&gt;Написати&lt;/a&gt;
+	~&lt;a href="mail:myrusakov@gmail.com"&gt;Написати&lt;/a&gt;
+}
+
+
+// question: 11999  name: op-01-02-25
+::op-01-02-25::[html]<p>Який з варіантів містить помилку:</p>{
+	=&lt;a href="page.html"#top&gt; Посилання&lt;/a&gt;
+	~&lt;a href="page.html"&gt; Посилання&lt;/a&gt;
+	~&lt;a href="page.html#17"&gt; Посилання&lt;/a&gt;
+	~&lt;a href="page.html#top"&gt; Посилання&lt;/a&gt;
+}
+
+
+// question: 12000  name: op-01-02-26
+::op-01-02-26::[html]<p>Необхідно вивести на сторінку код, який написаний на мові Java. Який тег для цього необхідно використовувати?</p>{
+	=&lt;code&gt;
+	~&lt;java&gt;
+	~&lt;p&gt;
+	~&lt;pre&gt;
+}
+
+
+// question: 12001  name: op-01-02-27
+::op-01-02-27::[html]<p>Яка помилка в наступному коді: & lt; a href = "page.html" & gt; & lt; b & gt; & lt; i & gt; Сторінка 1 & lt; / i & gt; & lt; / a & gt;</p>{
+	=Не закрыт тег &lt;b&gt;.
+	~Внутри тега &lt;a&gt; не может быть тег &lt;b&gt; и/или тег &lt;i&gt;.
+	~Не указан обязательный атрибут title у тега &lt;a&gt;.
+	~Не указан обязательный атрибут alt у тега &lt;a&gt;
+}
+
+
+// question: 12002  name: op-01-02-28
+::op-01-02-28::[html]<p>На сайті всередині папки pages знаходиться файл page.html. А всередині папки images знаходиться файл foto.jpg. Причому папки images і pages лежать в корені сайту. Як правильно написати шлях до foto.jpg з файлу page.html:</p>{
+	=../images/foto.jpg
+	~../images/pages/foto.jpg
+	~pages/images/foto.jpg
+	~images/foto.jpg
+}
+
+
+// question: 12003  name: op-01-02-29
+::op-01-02-29::[html]<p>На сайті всередині папки pages знаходиться файл page.html. А всередині папки images знаходиться файл foto.jpg. Причому папки images і pages лежать в корені сайту. Як правильно написати шлях до foto.jpg з файлу page.html:</p>{
+	=../images/foto.jpg
+	~../images/pages/foto.jpg
+	~pages/images/foto.jpg
+	~images/foto.jpg
+}
+
+
+// question: 12004  name: op-01-02-30
+::op-01-02-30::[html]<p>Який з представлених варіантів є дійсним за XHTML 1.1:</p>{
+	=&lt;img src="foto.jpg" alt="Изображение"&gt;
+	~&lt;img src="foto.jpg" alt="Изображение" /&gt;
+	~&lt;img src="foto.jpg" title="Изображение"&gt;
+	~&lt;img src="foto.jpg" title="Изображение" /&gt;
+}
