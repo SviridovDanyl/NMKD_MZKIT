@@ -83,6 +83,20 @@ $CATEGORY: $course$/top/OP-01-01
 
 
 // question: 11966  name: op-01-01-21
-::op-01-01-21::[html]<p>&lt;head&gt;...&lt;/head&gt; - контейнер, що містить додаткову інформацію про сторінку, яка не відображається </p>{TRUE}
+::op-01-01-21::[html]<p>&lt;h1&gt;...&lt;/h1&gt; - це блочний тег</p>{TRUE}
 
 
+// question: 11967  name: op-01-01-22
+::op-01-01-22::[html]<p>&lt;form&gt;...&lt;/form&gt; - контейнер, що створює форму на веб-сторінці </p>{TRUE}
+
+
+// question: 11968  name: op-01-01-23
+::op-01-01-23::[html]<p>&lt;section&gt;...&lt;/section&gt; - тег абзацу</p>{FALSE}
+
+
+// question: 11969  name: op-01-01-24
+::op-01-01-24::[html]<p>&lt;p&gt;...&lt;/p&gt; - це рядковий тег</p>{FALSE}
+
+
+// question: 11970  name: op-01-01-25
+::op-01-01-25::[html]<p>&lt;head&gt;...&lt;/head&gt; - контейнер, що містить додаткову інформацію про сторінку, яка не відображається </p>{TRUE}
